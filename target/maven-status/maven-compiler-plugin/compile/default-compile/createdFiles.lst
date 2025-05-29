@@ -1,0 +1,13 @@
+com/example/courses/dto/CourseDTO.class
+com/example/courses/CoursesApplication.class
+com/example/courses/repository/UserRepository.class
+com/example/courses/model/User.class
+com/example/courses/dto/UserDTO.class
+com/example/courses/model/Course.class
+com/example/courses/service/UserService.class
+com/example/courses/dto/LoginRequest.class
+com/example/courses/repository/CourseRepository.class
+com/example/courses/controller/CourseController.class
+com/example/courses/service/CourseService.class
+com/example/courses/controller/UserController.class
+com/example/courses/model/Enrollment.class

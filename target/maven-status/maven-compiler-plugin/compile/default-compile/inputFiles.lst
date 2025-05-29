@@ -1,0 +1,13 @@
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/model/Course.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/service/CourseService.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/repository/UserRepository.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/model/Enrollment.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/service/UserService.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/repository/CourseRepository.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/dto/LoginRequest.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/model/User.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/dto/CourseDTO.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/controller/UserController.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/controller/CourseController.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/dto/UserDTO.java
+/Users/daniel/Projects/COURSES_app/courses_backend_spring/src/main/java/com/example/courses/CoursesApplication.java
